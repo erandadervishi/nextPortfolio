@@ -1,0 +1,6 @@
+
+.card:nth-child(odd) {
+    position: relative;
+    top: -1.5rem;
+}
+

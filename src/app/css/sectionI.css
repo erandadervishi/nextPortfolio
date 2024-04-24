@@ -1,0 +1,126 @@
+
+/* .info {
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    width: 75%;
+    margin-top: 0.5rem;
+} */
+
+
+
+/* .info i {
+    font-size: 22px;
+    text-align: center;
+    color: #a53dff;
+    padding: 0.8rem 1rem;
+    background-color: #edd8ff;
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+    margin: 10px 15px 10px 5px;
+} */
+
+
+
+
+/* .info:hover {
+    border-radius: 5px;
+    box-shadow: 10px 5px 10px 5px #eee;
+} */
+
+/* .info:hover i {
+    background-color: #a53dff;
+    color: #fff;
+} */
+
+
+
+.info h4 {
+    font-size: 16px;
+    line-height: 1.8rem;
+
+}
+
+/* .social_icons_projects {
+    width: 250px;
+    height: 50px;
+    position: relative;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+} */
+
+.social_icons_projects i {
+    color: #a53dff;
+}
+
+.social_icons_projects i:hover {
+    background-color: #a53dff;
+    color: #fff;
+    padding: 5px 5px;
+}
+
+.discuss {
+    box-sizing: border-box;
+    padding: 4rem;
+    background: #fff;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.15);
+    margin-bottom: -7rem;
+    z-index: 2;
+    position: relative;
+}
+
+
+.form-desc {
+    margin-bottom: 2rem;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.one-third {
+    width: 30%;
+}
+
+.two-third {
+    width: 70%;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.contact-form input {
+    margin-bottom: 1rem;
+}
+
+.contact-form input {
+    margin-bottom: 0.5rem;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+}
+
+.contact-form input:focus {
+    border: none;
+    border-bottom: 2px solid #a53dff;
+    outline: none;
+    color: #a53dff;
+}
+
+input {
+    font-size: 1rem;
+}
+
+::-ms-input-placeholder:focus {
+    color: #000;
+}
+
+form a {
+    color: #fff;
+    margin-right: 1rem;
+}
