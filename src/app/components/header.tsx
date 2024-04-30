@@ -2,7 +2,7 @@ import Head from "next/head";
 
 const Header: React.FC = () => {
   const btnClass =
-    "bg-purple-600 border-none box-border rounded-md px-3 py-2 text-white text-sm no-underline cursor-pointer";
+    "bg-purple-600 border-none box-border rounded-md px-3 py-2 text-white text-base no-underline cursor-pointer";
   const name =
     "bg-purple-600 text-white w-14 h-14 rounded-full flex items-center justify-center text-2xl";
 

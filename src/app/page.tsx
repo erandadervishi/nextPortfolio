@@ -12,7 +12,7 @@ import SectionH from "./components/sectionH";
 import SectionI from "./components/sectionI";
 
 const btnClass =
-  "bg-purple-600 border-none box-border rounded-md px-3 py-2 mt-4 text-white text-sm no-underline cursor-pointer";
+  "bg-purple-600 border-none box-border rounded-md px-3 py-2 mt-4 text-white text-base no-underline cursor-pointer";
 const secondBtn =
   "bg-white flex rounded-md px-3 py-2 text-purple-600 text-m mt-4 border-none items-center box-border cursor-pointer no-underline";
 const boxCard =
